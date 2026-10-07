@@ -2,7 +2,7 @@ import React from 'react';
 import { useRoutes } from 'react-router-dom';
 
 import Nav from './Nav';
-import Votto from '../AI/VottoAI';
+import Votto from '../Ai/VottoAI.jsx';
 
 import Dashboard from '../pages/Dashboard';
 import Modules from '../pages/Modules';
