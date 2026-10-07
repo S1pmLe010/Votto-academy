@@ -1,0 +1,2 @@
+import { Award, Palette, ScrollText, Terminal } from 'lucide-react';
+export const rewards=[['badge',Award,'VOTTO Profile Badge','Add a premium learner badge.',500],['theme',Palette,'Premium Theme','Unlock an alternate academy theme.',1000],['cert',ScrollText,'Certificate Upgrade','Upgrade your certificate visual.',2000],['module',Terminal,'Premium Module','Reserve a future premium module.',15000]];;
